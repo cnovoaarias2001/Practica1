@@ -37,4 +37,4 @@ fe8365909e73   nervous_pasteur        0.00%     6.684MiB / 4.625GiB   0.14%     
 
 11º git commit -m "Añadiendo readme2.md"
 
-12º 
+12ºgit fetch
