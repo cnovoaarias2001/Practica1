@@ -31,4 +31,10 @@ fe8365909e73   nervous_pasteur        0.00%     6.684MiB / 4.625GiB   0.14%     
 6fd032a5822f   goofy_nash             0.00%     6.891MiB / 4.625GiB   0.15%     22.8kB / 5.66kB   3.94MB / 4.1kB   82
 226ddc0d7245   flamboyant_chebyshev   0.00%     1.254MiB / 4.625GiB   0.03%     29.7kB / 0B       893kB / 262kB    1
 
-9º 
+9º git clone https://github.com/cnovoaarias2001/Practica1.git: para clonar el repositorio.
+
+10º git add readme2.md
+
+11º git commit -m "Añadiendo readme2.md"
+
+12º 
